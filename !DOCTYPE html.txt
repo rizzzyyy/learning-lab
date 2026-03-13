@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Portfolio</title>
+</head>
+<body>
+
+    <header>
+        <h1>Riza Mae Velasco</h1>
+        <p>IT Student</p>
+        <p>Aspiring Digital Forensic Analyst</p>
+        <hr>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am currently a second-year Information Technology student with a strong interest in the field of law and a desire to use my technical skills to help                 others. Although my initial interest was in pursuing law, I chose a more practical academic path due to the financial demands of law school. While I acknowledge that programming is not my strongest area, I am motivated to apply my IT knowledge in ways that intersect with the legal field. This interest has led me to pursue digital forensics, where technology and law converge. At present, I am continuously learning and developing my skills in this field step by step.        
+        </p>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Basic HTML</li>
+            <li>Basic C Programming</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Projects</h2>
+        <ol>
+            <li>Appointment Scheduling System</li>
+            <li>Personal Portfolio Website</li>
+        </ol>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Contact Me</h2>
+        <p>Email: rizamaevelasco9@gmail.com</p>
+        <p>
+           Facebook: 
+            <a href="https://www.facebook.com/rizamae.velasco.52" target="_blank">
+            facebook.com/yourprofile
+            </a>
+        </p>
+    </section>
+
+    <hr>
+
+    <footer>
+        <p>&copy; 2026 Riza Mae Velasco. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
